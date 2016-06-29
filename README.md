@@ -15,7 +15,7 @@ Music :
 2. Put the converted music into the music the music folder.
 3. Put the music directory in your in index.php file on line 58
 
-Add Backgrounds ;
+Add Backgrounds :
 1. Open the images folder naming them 1,2,3,4,5,6,7,8,9, and 0 make sure they are jpg. To add more or remove image slots or use a different image format look at the other "Optional Instructions" below.
 
 Edit logo :
@@ -24,7 +24,7 @@ Edit logo :
 3. Save it with the name "logo" as a png "because it is partially transparent" in the pic folder 
 4. Also if you want to keep the same font go into the font folder and install the font to your computer
 
-Remove logo :.
+Remove logo :
 1. Delete the "logo.png" in the pic folder
 
 Remove Backgrounds :
