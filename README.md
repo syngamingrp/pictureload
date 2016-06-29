@@ -1,4 +1,4 @@
-# pictureload
+# Picture Load
 
 Installation Instructions :
 
