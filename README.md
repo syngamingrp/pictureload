@@ -1,3 +1,5 @@
+# pictureload
+
 Installation Instructions :
 
 1. Extract the PictureLoad folder from the Picture Load to your desktop or any accessable directories.
@@ -49,4 +51,3 @@ Add Backgrounds To The List :
 8. Replace "img0" with the name of your image
 
 If you need more help make a ticket on scriptfodder my name is "BBCS".
-# pictureload
